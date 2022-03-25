@@ -1,0 +1,28 @@
+<ngb-alert *ngIf="winner" [dismissible]="true" 
+             [type]="checkBoard()? 'success': 'info'" style="margin-left: 41%; width: 200px; position: absolute; z-index: 2; "
+             (closed)="newGame()">
+    <strong>{{winner}}</strong>
+</ngb-alert> 
+
+ <div style="justify-content: center; text-align: center; position: relative;">
+    <h1 [ngStyle]="{'color': turnText}">Current Player: {{ player }} </h1>
+    <br>
+    <button nbButton outline status="danger" (click)="newGame()">Start new Game</button>
+
+    <hr style="width: 100px;">    
+
+ </div>
+
+<main>
+    <app-square 
+        *ngFor="let val of squares; let i = index" 
+        [value]="val"
+        (click)="makeMove(i)"> 
+
+    </app-square>
+</main>
+<!-- 
+<h2 *ngIf="winner" style="text-align: center;">
+    {{ winner }}
+</h2> -->
+
