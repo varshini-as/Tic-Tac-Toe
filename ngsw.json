@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1648620741191,
+  "index": "/Tic-Tac-Toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Tic-Tac-Toe/favicon.ico",
+        "/Tic-Tac-Toe/index.html",
+        "/Tic-Tac-Toe/main.cc1979c54614b78c.js",
+        "/Tic-Tac-Toe/manifest.webmanifest",
+        "/Tic-Tac-Toe/polyfills.731c2fc888c11368.js",
+        "/Tic-Tac-Toe/runtime.eca77c71da9dbe5a.js",
+        "/Tic-Tac-Toe/scripts.40e3dc7140f4a706.js",
+        "/Tic-Tac-Toe/styles.106590d2a15a5a9e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Tic-Tac-Toe/assets/icons/icon-128x128.png",
+        "/Tic-Tac-Toe/assets/icons/icon-144x144.png",
+        "/Tic-Tac-Toe/assets/icons/icon-152x152.png",
+        "/Tic-Tac-Toe/assets/icons/icon-192x192.png",
+        "/Tic-Tac-Toe/assets/icons/icon-384x384.png",
+        "/Tic-Tac-Toe/assets/icons/icon-512x512.png",
+        "/Tic-Tac-Toe/assets/icons/icon-72x72.png",
+        "/Tic-Tac-Toe/assets/icons/icon-96x96.png",
+        "/Tic-Tac-Toe/fa-brands-400.7fa789ab57acb632.ttf",
+        "/Tic-Tac-Toe/fa-brands-400.859fc3887485de84.woff2",
+        "/Tic-Tac-Toe/fa-regular-400.2ffd018f0eda6f7b.woff2",
+        "/Tic-Tac-Toe/fa-regular-400.da02cb7e372f16a2.ttf",
+        "/Tic-Tac-Toe/fa-solid-900.3a463ec33b4fe9f7.ttf",
+        "/Tic-Tac-Toe/fa-solid-900.40ddefd79fe7af45.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Tic-Tac-Toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/Tic-Tac-Toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/Tic-Tac-Toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/Tic-Tac-Toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/Tic-Tac-Toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/Tic-Tac-Toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/Tic-Tac-Toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/Tic-Tac-Toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/Tic-Tac-Toe/fa-brands-400.7fa789ab57acb632.ttf": "acc07d5e1ab5b96b23fabb53b1f4e416c7c0a46d",
+    "/Tic-Tac-Toe/fa-brands-400.859fc3887485de84.woff2": "a280ecdddd14695fad22599301ab03adfe5224c0",
+    "/Tic-Tac-Toe/fa-regular-400.2ffd018f0eda6f7b.woff2": "379ca48f70f3d4f79f8bf1079881c7c5af4f44a4",
+    "/Tic-Tac-Toe/fa-regular-400.da02cb7e372f16a2.ttf": "a14023c43173628d93858c0f3fc90cf54b18a28e",
+    "/Tic-Tac-Toe/fa-solid-900.3a463ec33b4fe9f7.ttf": "9225d6cb428fce41704cab29b8bb43b76c67f8b4",
+    "/Tic-Tac-Toe/fa-solid-900.40ddefd79fe7af45.woff2": "2717f3f58271f2f2e6120d9937c7227002656d34",
+    "/Tic-Tac-Toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/Tic-Tac-Toe/index.html": "807c1ec2630e37005386fa33643303768f898de3",
+    "/Tic-Tac-Toe/main.cc1979c54614b78c.js": "98c44a75b07d333f9b69905874b457228b9a3be1",
+    "/Tic-Tac-Toe/manifest.webmanifest": "6972099ffa48f205e25eee7ca225ad0a9fd741d3",
+    "/Tic-Tac-Toe/polyfills.731c2fc888c11368.js": "e73135fac8756062d681326b5ee7220f6692e970",
+    "/Tic-Tac-Toe/runtime.eca77c71da9dbe5a.js": "8a8d2a921cea67d917efba0c5c0570090ecb71cf",
+    "/Tic-Tac-Toe/scripts.40e3dc7140f4a706.js": "b1bf7853d5ab2abe0f02940a718d024252466921",
+    "/Tic-Tac-Toe/styles.106590d2a15a5a9e.css": "54b2e90d9ff11b32ce7aba17a5c587ea1c6f87a7"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
